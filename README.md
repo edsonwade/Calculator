@@ -17,6 +17,11 @@ A imagem abaixo mostra os objetos criados e como eles são implementados no sist
 ![Calculator](https://user-images.githubusercontent.com/22649602/130883827-693a5d88-1ace-46ab-866b-5ef2edb0bc23.png)
 
 ### Implementação 
+Implementei os princípios OOP e SOLID neste programa.</br>
+O sistemá é representado por uma classe abstracta Calculadora(), que define um metódo abstracto que recebe 2 argumentos.</br>
+Este metódo é implementado pelas classes Multiplication(),Subtract(),Division(),Addition() que estendem (herdam) da classe abstracta calculadora().</br>
+As classes implementam o metódo execute(), contudo cada uma apresenta um comportamento diferente (Polimorfismo). <br>
+
 
 
 
