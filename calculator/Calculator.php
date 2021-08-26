@@ -11,5 +11,5 @@ abstract class Calculator
      * @param $right
      *
      */
-    public abstract function execute($left, $right):float|int;
+    public abstract function execute($left, $right): float|int;
 }

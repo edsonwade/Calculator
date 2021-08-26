@@ -10,9 +10,9 @@ class Addition extends Calculator
      * @param $right
      * @return float|int
      */
-    public function execute($left, $right):float|int
+    public function execute($left, $right): float|int
     {
-          return  $left + $right;
+        return $left + $right;
 
     }
 
