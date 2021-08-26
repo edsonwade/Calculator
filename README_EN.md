@@ -4,14 +4,14 @@
 Simple Calculator implementations using the 4 Pillars of OOP in PHP.<br/> 
 
 The calculator performs operations as : <br/>
- Addition
- Subtract
- Division
- Multiplication
+ Addition <br/>
+ Subtract <br/>
+ Division <br/>
+ Multiplication<br/>
 
 key functionality:<br/>
-.Perform 4 arithmetic operations on
- two value specified by the user
+.Perform 4 arithmetic operations on<br/>
+ two value specified by the user<br/>
 .Show result of the calculation
 
 
