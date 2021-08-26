@@ -5,9 +5,13 @@ require_once "Calculator.php";
 class Multiplication extends Calculator
 {
 
-
-    public function execute($left, $right)
+    /** Multiplication of two given numbers.
+     * @param $left
+     * @param $right
+     * @return float|int
+     */
+    public function execute($left, $right):float|int
     {
-       return $left * $right;
+        return  $left * $right;
     }
 }

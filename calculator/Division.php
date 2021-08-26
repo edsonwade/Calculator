@@ -4,10 +4,14 @@ require_once "Calculator.php";
 
 class Division extends Calculator
 {
-
-    public function execute($left, $right)
+    /** Division of two given numbers
+     * @param $left
+     * @param $right
+     * @return float|int
+     */
+    public function execute($left, $right):float|int
     {
-        return $left / $right;
+        return  $left / $right;
     }
 
 }
