@@ -12,7 +12,12 @@ The calculator performs operations as : <br/>
 key functionality:<br/>
 .Perform 4 arithmetic operations on<br/>
  two value specified by the user<br/>
-.Show result of the calculation
+ 
+.Show result of the calculation <br/>
+
+The image down show the objects created and how their are implemented in the system..<br/>
+
+![alt tag](file:///C:/Users/vanil/Desktop/Calculator.png)
 
 
 
