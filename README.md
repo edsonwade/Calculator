@@ -1,19 +1,19 @@
 # Calculadora
 Implementação de uma calculadora em PHP usando os 4 Pilares da OOP em PHP. </br>
 
-A calculadora realiza operações como:
-Adição
-Subtrair
-Divisão
-Multiplicação
+A calculadora realiza operações como: </br>
+Adição </br>
+Subtrair </br>
+Divisão </br>
+Multiplicação </br>
 
-funcionalidade principal:
-.Execute 4 operações aritméticas em
-dois valores especificados pelo usuário
+funcionalidade principal:</br>
+.Execute 4 operações aritméticas em</br>
+dois valores especificados pelo usuário</br>
 
-.Mostra o resultado do cálculo realizado.
+.Mostra o resultado do cálculo realizado.</br>
 
-A imagem abaixo mostra os objetos criados e como eles são implementados no sistema. 
+A imagem abaixo mostra os objetos criados e como eles são implementados no sistema. </br>
 
 
 
