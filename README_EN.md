@@ -9,7 +9,7 @@ The calculator performs operations as : <br/>
  Division <br/>
  Multiplication<br/>
 
-key functionality:<br/>
+###  key functionality:<br/>
 .Perform 4 arithmetic operations on<br/>
  two value specified by the user<br/>
  
