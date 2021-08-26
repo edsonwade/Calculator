@@ -9,15 +9,11 @@ The calculator performs operations as :
  Division
  Multiplication
 
+key functionality:
+.Perform 4 arithmetic operations on
+ two value specified by the user
+.Show result of the calculation
 
 
-// few testings
 
-$num1 = (int) readline("Enter the first value :\n");
-$num2 =  readline("Enter the second value :\n");
-
-if (!(is_numeric($num1) && is_numeric($num2)))
-echo "the value inserted is not a number ... try again";
-
-else echo "the result of operations is  = " .$sum->execute($num1,$num2);
 
