@@ -7,7 +7,7 @@ Subtrair </br>
 Dividir </br>
 Multiplicar </br>
 
-funcionalidade principal:</br>
+Funcionalidade principal:</br>
 .Execute 4 operações aritméticas em</br>
 dois valores especificados pelo usuário</br>
 
