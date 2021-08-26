@@ -1,5 +1,5 @@
 # Calculadora
-Implementação de uma calculadora em PHP usando os 4 Pilares da OOP em PHP.
+Implementação de uma calculadora em PHP usando os 4 Pilares da OOP em PHP. </br>
 
 A calculadora realiza operações como:
 Adição
