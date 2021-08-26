@@ -17,7 +17,7 @@ key functionality:<br/>
 
 The image down show the objects created and how their are implemented in the system..<br/>
 
-![A test image](Calculator.png)
+
 
 
 
